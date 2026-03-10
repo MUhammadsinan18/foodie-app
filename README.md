@@ -1,6 +1,6 @@
 # foodieapp
 
-A new Flutter project.
+A food ordering app with done with mvvm architecture and riverpod for statemanagement
 
 ## Getting Started
 
